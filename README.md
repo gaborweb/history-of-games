@@ -1,2 +1,3 @@
 # history-of-games
 Web development basics...
+Just a simple html page from the beginning of my learning.
